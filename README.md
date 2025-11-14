@@ -1,0 +1,1 @@
+Developed a machine learning pipeline, at IIT Delhi, to classify production batches and detect anomalies using Raman spectra. Achieved 88% accuracy with Random Forest and enhanced interpretability through SHAP analysis
